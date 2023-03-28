@@ -11,7 +11,7 @@
 - 💻 I’m currently learning... everything! 
 - ✨ 2023 Goals: Sharpen my skills to be the very best I can be.
 - 🎾 Fun fact: I love playing tennis and trying out new games!
-<br />
+
 
 #### Connect with me
 
