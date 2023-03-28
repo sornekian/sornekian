@@ -1,5 +1,5 @@
-# Hi there, I'm Sarven - 👋 
-## Check out my website below!
+# Hi there, I'm Sarven - 🤙 
+## Check out my portfolio below!
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 )](https://sornekian.com)
@@ -11,15 +11,18 @@
 - 💻 I’m currently learning... everything! 
 - ✨ 2023 Goals: Sharpen my skills to be the very best I can be.
 - 🎾 Fun fact: I love playing tennis and trying out new games!
+<br />
 
-#### Connect with me:
+#### Connect with me
 
 [![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/sarven-ornekian/)&nbsp;[![Website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/thesarv/)&nbsp;[![Website](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
 )](https://steamcommunity.com/profiles/76561197979972068)
+<br />
 
-#### Languages and Tools:
+#### Languages and Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,css,django,express,github,heroku,html,js,nodejs,postgres,py,react,replit,sass,vscode" />
@@ -27,13 +30,13 @@
 </p>
 
 <br />
-<br />
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<br /> 
 
-  <img align="left" alt="Sarven's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sornekian&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+### 👾 GitHub Statistics
 
-</details>
+![](https://github-readme-stats.vercel.app/api?username=sornekian&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sornekian&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sornekian&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
