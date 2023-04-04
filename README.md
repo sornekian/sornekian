@@ -34,6 +34,6 @@
 
 ### 👾 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=sornekian&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sornekian&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sornekian&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sornekian&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sornekian&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sornekian&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
