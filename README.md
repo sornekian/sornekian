@@ -1,8 +1,11 @@
 # Hi there, I'm Sarven - 🤙 
 ## Check out my portfolio below!
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
-)](https://sornekian.com)
+<p>
+  <a href="https://sornekian.com">
+    <img src="https://github.com/sornekian/sornekian/assets/119828225/89eac875-393c-48d4-b228-852be901f112" />
+  </a>
+</p>
 
 
 ### I'm a Gamer turned Coder!
@@ -23,11 +26,8 @@
 
 #### Languages and Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,css,django,express,github,heroku,html,js,nodejs,postgres,py,react,replit,sass,vscode" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,css,django,express,github,heroku,html,js,nodejs,postgres,py,react,replit,sass,vscode,typescript,docker,tailwind&perline=6)](https://skillicons.dev)
+
 <br />
 <hr>
 <br />
@@ -37,3 +37,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=sornekian&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sornekian&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sornekian&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![Website](https://custom-icon-badges.demolab.com/badge/trending--up-brightgreen.svg?logoColor=fff&logo=trending-up)](https://sornekian.com)
+
+<br />
