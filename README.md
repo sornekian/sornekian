@@ -8,9 +8,9 @@
 </p>
 
 
-### I'm a Gamer turned Coder!
+### I'm a Dreamer turned Coder!
 
-- 🤓 I decided to switch gears and plug into software engineering!
+- 🤓 I decided to buckle down and plug into software engineering!
 - 💻 I’m currently learning... everything! 
 - ✨ 2023 Goals: Sharpen my skills to be the very best I can be.
 - 🎾 Fun fact: I love playing tennis and trying out new games!
