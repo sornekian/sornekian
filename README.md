@@ -12,7 +12,7 @@
 
 - 🤓 I decided to switch gears and plug into software engineering!
 - 💻 I’m currently learning... everything! 
-- ✨ 2023 Goals: Sharpen my skills to be the very best I can be.
+- ✨ 2024 Goals: Enhance my skills to be the very best I can be.
 - 🎾 Fun fact: I love playing tennis and trying out new games!
 
 
