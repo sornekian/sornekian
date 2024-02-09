@@ -12,7 +12,7 @@
 
 - 🤓 I decided to switch gears and plug into software engineering!
 - ✨ 2024 Goals: Enhance my skills to be the very best I can be.
-- 🎾 Fun fact: I love playing tennis, nuidling computers and trying out new games!
+- 🎾 Fun fact: I love playing tennis, buidling computers and trying out new games!
 
 
 #### Connect with me
