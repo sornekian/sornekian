@@ -11,8 +11,8 @@
 ### I'm a Psychologist turned Coder!
 
 - 🤓 I decided to switch gears and plug into software engineering!
-- ✨ 2024 Goals: Enhance my skills to be the very best I can be.
-- 🎾 Fun fact: I love playing tennis, buidling computers and trying out new games!
+- ✨ 2024 Goals: Enhance my skills to be the very best developer I can be.
+- 🎾 Fun fact: I love playing tennis and buidling computers!
 
 
 #### Connect with me
